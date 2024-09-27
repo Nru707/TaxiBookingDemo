@@ -1,5 +1,36 @@
 @charset "UTF-8";
 
-.car_img{
-	width: 50%;
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    display: flex;
+}
+.card{
+	width: 370px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #e5e5e7;
+    margin: 25px 25px 25px;
+    overflow: hidden;
+    position: relative;
+    padding: 15px;
+}
+.title {
+    overflow: hidden;
+    color: #2a2929;
+    font-size: 46px;
+    line-height: 48px;
+    margin-bottom: 10px;
+}
+.banner {
+	padding: 10px;
+}
+.banner img {
+    position: relative;
+    top: -1px;
+    float: left;
+    margin-right: 17px;
+}
+.card p{
+	padding-top: 6px;
 }
