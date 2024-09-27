@@ -13,12 +13,7 @@
 <body>
 <footer>
 			<div class="ftr">
-			<div class="st1"><h1>Tour<span class="color1">T</span>axi </h1></div>
-					<!--  <div class="ftr_socials">
-						<a href="#" class="fa fa-twitter"></a>
-						<a href="#" class="fa fa-facebook"></a>
-						<a href="#" class="fa fa-google-plus"></a>
-					</div>-->
+			<div class="st1"><h1>Your<span class="color1">T</span>axi </h1></div>
 					<div class="ftr_phone"><span>Call Us:</span> + 1800 559 6580</div>
 						
 					
