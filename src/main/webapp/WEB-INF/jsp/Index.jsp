@@ -4,23 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title><!--  
+<title>Insert title here</title> 
  <style>
-<%@include file="/WEB-INF/css/style.css" %>
-<%@include file="/WEB-INF/css/font-awesome.css" %>
-<%@include file="/WEB-INF/css/form.css" %>
-<%@include file="/WEB-INF/css/grid.css" %>
-<%@include file="/WEB-INF/css/ie.css" %>
-<%@include file="/WEB-INF/css/reset.css" %>
-<%@include file="/WEB-INF/css/touchTouch.css" %>
-<%@include file="/WEB-INF/css/superfish.css" %>
-<%@include file="/WEB-INF/css/owl.carousel.css" %>
-<%@include file="/WEB-INF/css/skeleton.css" %>
-<%@include file="/WEB-INF/css/camera.css" %>
-<%@include file="/WEB-INF/css/adipoli.css" %>
-<%@include file="/WEB-INF/css/booking.css" %>
+<%@include file="/WEB-INF/css/Index.css" %>
  </style>
- -->
+ 
 </head>
 <body class="page1" id="top">
 		<div class="main">
@@ -28,17 +16,10 @@
 			<header>
 			<%@include file="navbar.jsp" %>
 			</header>
-			<div class="slider_wrapper ">
-				<div id="camera_wrap" class="">
-					<div data-src="images/slide.jpg" ></div>
-					<div data-src="images/slide1.jpg" ></div>
-					<div data-src="images/slide2.jpg"></div>
+			<div class="car_img ">
+				 <img src="images/slide1.jpg" alt="Your Happy Family" width="1513" height="625">
 				</div>
 			</div>
-			<div class="container_12">
-				<div class="grid_4">
-					<div class="banner">
-						<div class="maxheight">
 							<div class="banner_title">
 								<img src="images/icon1.png" alt="">
 								<div class="extra_wrapper">Fast&amp;
