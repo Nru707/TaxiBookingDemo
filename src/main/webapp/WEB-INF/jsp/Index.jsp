@@ -62,19 +62,15 @@
 			malesuki
 		</div>
 </div>
-<div class="c_phone">
-	<div class="container_12">
-		<div class="grid_12">
-			<div class="fa fa-phone"></div>
-			+ 1800 559 6580 <span>ORDER NOW!</span>
+<div class="order_now">
+	<div class="order">
+		<div class="now">
+			<h1>ORDER NOW!, Happy journey</h1>
 		</div>
-		<div class="clear"></div>
 	</div>
 </div>
 <!--==============================Content=================================-->
 <div class="content">
-	<div class="ic">More Website Templates @ TemplateMonster.com -
-		April 07, 2014!</div>
 	<div class="container_12">
 		<div class="grid_5">
 			<h3>Booking Form</h3>

@@ -1,36 +1,56 @@
 @charset "UTF-8";
 
 .container {
-    margin-left: auto;
-    margin-right: auto;
-    width: 1200px;
-    display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	display: flex;
 }
-.card{
+
+.card {
 	width: 370px;
-    font-family: 'Roboto Condensed', sans-serif;
-    background-color: #e5e5e7;
-    margin: 25px 25px 25px;
-    overflow: hidden;
-    position: relative;
-    padding: 15px;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #e5e5e7;
+	margin: 25px 25px 25px;
+	overflow: hidden;
+	position: relative;
+	padding: 15px;
 }
+
 .title {
-    overflow: hidden;
-    color: #2a2929;
-    font-size: 46px;
-    line-height: 48px;
-    margin-bottom: 10px;
+	overflow: hidden;
+	color: #2a2929;
+	font-size: 46px;
+	line-height: 48px;
+	margin-bottom: 10px;
 }
+
 .banner {
 	padding: 10px;
 }
+
 .banner img {
-    position: relative;
-    top: -1px;
-    float: left;
-    margin-right: 17px;
+	position: relative;
+	top: -1px;
+	float: left;
+	margin-right: 17px;
 }
-.card p{
+
+.card p {
 	padding-top: 6px;
+}
+
+.order {
+	background-color: #21222A;
+	padding: 1px;
+}
+
+.now {
+	align-items: center;
+}
+
+.now h1 {
+	text-align: center;
+	font-size: 40px;
+	color: #c97416;
 }
